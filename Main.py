@@ -4,8 +4,8 @@ import mysql.connector
 #Banco de Dados
 bdd = mysql.connector.connect(
   host='localhost',
-  user='souza', 
-  password='@1302',
+  user='root', 
+  password='',
   database='python'
 )
 
